@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lomnomm
 - 👀 I’m interested in astronomy, physics, biology, movies and sleeping
 - 🌱 I’m currently learning Biomedical Engineering BTech (First year)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 📫 ig - _.lomnom._ 
 
 <!---
 lomnomm/lomnomm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
